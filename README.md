@@ -69,7 +69,7 @@ usuarios
 ## EJERCICIO RESUELTO
 Primer repositorio en GitHub
 - Creamos un nuevo proyecto en GitHub
-    - ![Nuevo Proyecto GitHub](repositorio.png)
+    - ![Proyecto Github](repositorio.png)
 
 - Crearemos un repositorio local usando git init
     ```sh
@@ -114,15 +114,13 @@ Primer repositorio en GitHub
     git push -u origin main
     ```
 
-- Ahora podemos verificar en GitHub que nuestro repositorio se actualizó con el proyecto local
-    - ![Readme.md](Readme.md.png)
-
 - Creamos un archivo Python calculadora.py que establezca una conexión con Flask para ejecutarlo en nuestro navegador web, también creamos dos archivos HTML que serían la calculadora.html y resultado.htmly subimos todo al repositorio GitHub.
-    ```sh
+    ```
     python calculadora.py
     ```
     <pre>
-   from flask import Flask,render_template, request
+   
+from flask import Flask,render_template, request
 from flask_mysqldb import MySQL
 
 
@@ -170,10 +168,10 @@ if __name__ == '__main__':
     ```sh
     python calculadora.py
     ```
-    <pre>
-    ![Calculadora](calculator.jpg)
-    </pre>
-    ```sh
+    
+    - ![Nuevo Proyecto GitHub](calculator.png)
+    
+    ```
     git add python calculadora.py
     git commit -m "Calculadora usando python y HTML"
     git push -u origin Jonathan
