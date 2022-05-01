@@ -37,7 +37,9 @@
 </<tr>
 <tr><td colspan="2">DOCENTES:
 <ul>
-<li>Richart Smith Escobedo Quispe (r.escobedo@ulasalle.edu.pe)</li>
+<li>Jonathan Aguirre Soto (jaguirres@ulasalle.edu.pe)</li>
+<li>Hector Avila Gonzales (havilag@ulasalle.edu.pe)</li>
+<li>Valeria Bravo Saines (vbravos@ulasalle.edu.pe)</li>
 </ul>
 </td>
 </<tr>
@@ -142,21 +144,18 @@ if __name__ == '__main__':
     app.run(host='localhost', port=5000)
     </pre>
     
- - Vemos la versión de Python
-    ``    
-    python --version
-    ```
+ - Vemos la versión de Python   
+    
     <pre>
+    python --version
     Python 3.9.7
     </pre>
-    ```sh
-    python calculadora.py
-    ```
     
     ```
     git add python calculadora.py
     git commit -m "Calculadora usando python y HTML"
     git push -u origin Jonathan
+    
     ```
     
 - Resultado de nuestro código
