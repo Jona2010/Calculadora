@@ -142,8 +142,7 @@ if __name__ == '__main__':
     app.run(host='localhost', port=5000)
     </pre>
     
-    <pre>
-    - Vemos la versión de Python
+ - Vemos la versión de Python
     ``    
     python --version
     ```
@@ -161,7 +160,9 @@ if __name__ == '__main__':
     ```
     
 - Resultado de nuestro código
-    - ![Proyecto Github](Calculator.png)
+    - ![Calculador](Calculator.png)
+    - ![Operaciones](Multiplicacion.png)
+    - ![Resultado](Resultado.png)
     
     
 ## CUESTIONARIO
