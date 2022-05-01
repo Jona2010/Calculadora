@@ -69,7 +69,7 @@ usuarios
 ## EJERCICIO RESUELTO
 Primer repositorio en GitHub
 - Creamos un nuevo proyecto en GitHub
-    - ![Nuevo Proyecto GitHub](repositorio.jpg)
+    - ![Nuevo Proyecto GitHub](repositorio.png)
 
 - Crearemos un repositorio local usando git init
     ```sh
