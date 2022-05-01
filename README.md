@@ -69,7 +69,7 @@ usuarios
 ## EJERCICIO RESUELTO
 Primer repositorio en GitHub
 - Creamos un nuevo proyecto en GitHub
-    - ![Nuevo Proyecto GitHub](github_proyecto_programacion.png)
+    - ![Nuevo Proyecto GitHub](repositorio.jpg)
 
 - Crearemos un repositorio local usando git init
     ```sh
@@ -171,7 +171,7 @@ if __name__ == '__main__':
     python calculadora.py
     ```
     <pre>
-    ![Calculadora](github_proyecto_programacion.png)
+    ![Calculadora](calculator.jpg)
     </pre>
     ```sh
     git add python calculadora.py
