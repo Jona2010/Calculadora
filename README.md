@@ -2,7 +2,7 @@
 <table>
     <theader>
         <tr>
-            <td><img src="https://github.com/Jona2010/Calculadora/main/ulasalle.png?raw=true" alt="EPIS" style="width:50%; height:auto"/></td>
+            <td><img src="https://github.com/Jona2010/Calculadora/blob/main/ulasalle.png?raw=true" alt="EPIS" style="width:50%; height:auto"/></td>
             <th>
                 <span style="font-weight:bold;">UNIVERSIDAD LA SALLE</span><br />
                 <span style="font-weight:bold;">FACULTAD DE INGENIERÍAS</span><br />
