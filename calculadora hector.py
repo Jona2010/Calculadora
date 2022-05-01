@@ -25,6 +25,7 @@ def result():
          result = var_1 / var_2
     else:
         result = 'operacion invalida'
+    entry = result
     return render_template('resultado.html', entry=entry)
 
 if __name__ == '__main__':
