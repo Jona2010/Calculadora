@@ -143,8 +143,10 @@ def result():
 
 if __name__ == '__main__':
     app.run(host='localhost', port=5000)
+    
     </pre>
-    ```sh    
+    - Vemos la versión de Python
+    ``    
     python --version
     ```
     <pre>
@@ -154,13 +156,16 @@ if __name__ == '__main__':
     python calculadora.py
     ```
     
-    - ![Nuevo Proyecto GitHub](Calculator.png)
-    
     ```
     git add python calculadora.py
     git commit -m "Calculadora usando python y HTML"
     git push -u origin Jonathan
     ```
+    Primer repositorio en GitHub
+    
+- Resultado de nuestro código
+    - ![Proyecto Github](Calculator.png)
+    
     
 ## CUESTIONARIO
 - ¿Por qué Git es una herramienta importante en el curso?
