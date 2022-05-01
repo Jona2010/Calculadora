@@ -167,8 +167,17 @@ if __name__ == '__main__':
     
 ## CUESTIONARIO
 - ¿Por qué Git es una herramienta importante en el curso?
+   <pre>
+   Primeramente, git es un software libre que no depende de un repositorio central por lo cual se ha convertido en una herramienta para el curso, debido a que nos deja controlar los cambios que hacemos en el código como en nuestra aplicación; es decir, podemos ver todo un historial con todos cambios que hemos hecho durante el proceso.
+   </pre>
 - ¿Qué conductas éticas debe promocionarse cuando se usa un Sistema de Control de Versiones?
+  <pre>
+  
+  </pre>
 - ¿Qué son los entándares de codificación?
+  <pre>
+  estándar de codificación o Code Standard en inglés. Los estándares de código, son parte de las llamadas buenas practicas o mejores practicas, estas son un conjunto no formal de reglas, que han ido surgiendo en las distintas comunidades de desarrolladores con el paso del tiempo y las cuales, bien aplicadas pueden incrementar la calidad de tu código, notablemente
+  </pre>
 
 ## REFERENCIAS Y BIBLIOGRÁFIA RECOMENDADAS
 - https://guides.github.com/
