@@ -77,25 +77,11 @@ Primer repositorio en GitHub
     git init
     ```
 
-- Crearemos un archivo Readme.md con contenido Markup
+- Crearemos un archivo Readme.md
     ```sh
     echo "# Calculadora" > README.md
     ```
-
-- Agregaremos este archivo al staging area usando git add .
-    ```sh
-    git status
-    ```
-    <pre>
-    En la rama main
-
-    No hay commits todavía
-
-    Archivos sin seguimiento:
-    (usa "git add <archivo>..." para incluirlo a lo que se será confirmado)
-	README.md
-    no hay nada agregado al commit pero hay archivos sin seguimiento presentes (usa "git add" para hacerles seguimiento)
-    </pre>
+- Luego lo añadiremos a nuestro GitHub
     ```sh
     git add README.md
     ```
@@ -118,7 +104,6 @@ Primer repositorio en GitHub
     ```
     python calculadora.py
     ```
-    <pre>
    
 from flask import Flask,render_template, request
 from flask_mysqldb import MySQL
@@ -169,7 +154,7 @@ if __name__ == '__main__':
     python calculadora.py
     ```
     
-    - ![Nuevo Proyecto GitHub](calculator.png)
+    - ![Nuevo Proyecto GitHub](Calculator.png)
     
     ```
     git add python calculadora.py
