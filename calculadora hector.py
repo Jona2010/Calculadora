@@ -22,6 +22,9 @@ def result():
     elif(operation == '*'):
         result = var_1 * var_2
     elif(operation == '/'):
+         result = var_1 / var_2
+    else:
+        result = 'operacion invalida'
     return render_template('resultado.html', entry=entry)
 
 if __name__ == '__main__':
