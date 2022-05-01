@@ -167,6 +167,7 @@ if __name__ == '__main__':
     
 ## CUESTIONARIO
 - ¿Por qué Git es una herramienta importante en el curso?
+   
    Primeramente, git es un software libre que no depende de un repositorio central por lo cual se ha convertido en una herramienta para el curso, debido a que nos deja    controlar los cambios que hacemos en el código como en nuestra aplicación; es decir, podemos ver todo un historial con todos cambios que hemos hecho durante el        proceso.
 - ¿Qué conductas éticas debe promocionarse cuando se usa un Sistema de Control de Versiones?
 
