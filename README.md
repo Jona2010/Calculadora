@@ -104,14 +104,11 @@ Primer repositorio en GitHub
     ```
     python calculadora.py
     ```
-   
+<pre>   
 from flask import Flask,render_template, request
 from flask_mysqldb import MySQL
 
-
 app = Flask(__name__,template_folder="template")
-
-
 
 @app.route('/')
 def index():
@@ -143,8 +140,9 @@ def result():
 
 if __name__ == '__main__':
     app.run(host='localhost', port=5000)
-    
     </pre>
+    
+    <pre>
     - Vemos la versión de Python
     ``    
     python --version
@@ -161,7 +159,6 @@ if __name__ == '__main__':
     git commit -m "Calculadora usando python y HTML"
     git push -u origin Jonathan
     ```
-    Primer repositorio en GitHub
     
 - Resultado de nuestro código
     - ![Proyecto Github](Calculator.png)
