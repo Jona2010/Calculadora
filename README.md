@@ -169,16 +169,17 @@ if __name__ == '__main__':
 - ¿Por qué Git es una herramienta importante en el curso?
    
    Primeramente, git es un software libre que no depende de un repositorio central por lo cual se ha convertido en una herramienta para el curso, debido a que nos deja    controlar los cambios que hacemos en el código como en nuestra aplicación; es decir, podemos ver todo un historial con todos cambios que hemos hecho durante el        proceso.
+   
 - ¿Qué conductas éticas debe promocionarse cuando se usa un Sistema de Control de Versiones?
 
+  Se debe promocionar la conducta ética de gestión y compañerismo, puesto que los líderes y gestores de ingeniería de software promoverán un enfoque ético en la         gestión de desarrollo y mantenimiento de software. Asimismo, los ingenieros de software serán justo y apoyarán a sus compañeros con tareas complejas para llegar a     obtener un bien común.
 
 - ¿Qué son los entándares de codificación?
-  Estándar de codificación o Code Standard en inglés, son parte de las llamadas buenas prácticas o mejores prácticas, son un conjunto no formal de reglas que han ido surgiendo en las distintas comunidades de desarrolladores con el paso del tiempo y las cuales han sido aplicadas para poder incrementar la calidad de tu código.
+  
+  Estándar de codificación o Code Standard en inglés, son parte de las llamadas buenas prácticas o mejores prácticas, son un conjunto no formal de reglas que han ido     surgiendo en las distintas comunidades de desarrolladores con el paso del tiempo y las cuales han sido aplicadas para poder incrementar la calidad de tu código.
 
 ## REFERENCIAS Y BIBLIOGRÁFIA RECOMENDADAS
 - https://guides.github.com/
 - https://git-scm.com/book/es/v2
-
-
-
-
+- http://www.sc.ehu.es/jiwdocoj/elcodigo.htm
+- https://www.wildcodeschool.com/es-ES/blog/que-es-github-por-que-es-importante-para-desarrollo-web
